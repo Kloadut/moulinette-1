@@ -46,3 +46,5 @@ Requirements
 * python-bottle (>= 0.10)
 * python-gnupg (>= 0.3)
 * python-ldap (>= 2.4)
+* python-json
+* python-yaml
